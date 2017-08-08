@@ -1,7 +1,7 @@
 {
   "moduleId" : "grabowCommuter/germany_RBB",
   "type" : "Website",
-  "name" : "CA.gov",
+  "name" : "RBB",
   "uri" : "http://www.inforadio.de/nachrichten/verkehr/index.html",
   "startTrigger" : "Verkehrsservice",
   "endTrigger" : "",
